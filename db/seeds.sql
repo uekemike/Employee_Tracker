@@ -2,6 +2,7 @@
 INSERT INTO department (name)
 VALUES ("Human Resource"),
         ("Development"),
+        ("Account"),
         ("QA");
       
 
